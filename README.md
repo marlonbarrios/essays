@@ -8,6 +8,10 @@
 
 [On the Tectonics of Otherness](https://marlonbarrios.github.io/tectonics_of_otherness/)
 
+[Epistemic Affordances in Active Inference: Implications for Sentience and Consciousness](https://marlonbarrios.github.io/epistemic_affordances/)
+
+
+
 
 
 
