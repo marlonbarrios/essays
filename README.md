@@ -1,9 +1,8 @@
 # Writings by Marlon Barrios Solano
 
-
-
-
 [The Emergence of Synthetic Cognition in AI Research](https://marlonbarrios.github.io/synthetic_cognition_essay/)
+
+[Transformers as Epistemic Objects: On form, Growth, Movement and Sense-making](https://marlonbarrios.github.io/transformersasspitemicobjects/)
 
 [Epistemology of Latent Space or the Gravity of Language](https://marlonbarrios.github.io/enactivismandllms/)
 
