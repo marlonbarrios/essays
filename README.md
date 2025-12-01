@@ -1,5 +1,10 @@
 # Writings by Marlon Barrios Solano
 
+
+
+
+[The Emergence of Synthetic Cognition in AI Research](https://marlonbarrios.github.io/synthetic_cognition_essay/)
+
 [Epistemology of Latent Space or the Gravity of Language](https://marlonbarrios.github.io/enactivismandllms/)
 
 [Embodied Cognition and Enactivism: Implications for Generative AI](https://marlonbarrios.github.io/epistemologyofllms/)
