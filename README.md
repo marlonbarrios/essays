@@ -1,5 +1,7 @@
 # Writings by Marlon Barrios Solano
 
+[A Generative Void: Emptiness, Zero, and the AI Mind](https://marlonbarrios.github.io/zero_sunyata/)
+
 [The Emergence of Synthetic Cognition in AI Research](https://marlonbarrios.github.io/synthetic_cognition_essay/)
 
 [Transformers as Epistemic Objects: On form, Growth, Movement and Sense-making](https://marlonbarrios.github.io/transformersasspitemicobjects/)
