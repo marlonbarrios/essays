@@ -1,5 +1,9 @@
 # Writings by Marlon Barrios Solano
 
+[Synthetic Poetics: The New Line, the New Mind, and the Latent Space](https://marlonbarrios.github.io/newline_newmind/)
+
+[A New Line Is a New Mind: New vector, new thought](https://marlonbarrios.github.io/newline_newline00/)
+
 [A Generative Void: Emptiness, Zero, and the AI Mind](https://marlonbarrios.github.io/zero_sunyata/)
 
 [The Emergence of Synthetic Cognition in AI Research](https://marlonbarrios.github.io/synthetic_cognition_essay/)
