@@ -1,7 +1,7 @@
 # Writings by Marlon Barrios Solano
 
 
-[Vectorial Foldings and the Improvising Mind: Poetics, Large Language Models, Choreographic Thinking, and the Emergence of Form(https://marlonbarrios.github.io/vectorial_foldings_2/)
+[Vectorial Foldings and the Improvising Mind: Poetics, Large Language Models, Choreographic Thinking, and the Emergence of Form](https://marlonbarrios.github.io/vectorial_foldings_2/)
 
 [Vectorial Foldings: Poetics, Latent Space, and Choreographic Intelligence](https://marlonbarrios.github.io/vectotial_foldings/)
 
