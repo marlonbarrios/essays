@@ -1,5 +1,7 @@
 # Writings by Marlon Barrios Solano
 
+[Vectorial Foldings: Poetics, Latent Space, and Choreographic Intelligence](https://marlonbarrios.github.io/vectotial_foldings/)
+
 [Synthetic Poetics: The New Line, the New Mind, and the Latent Space](https://marlonbarrios.github.io/newline_newmind/)
 
 [A New Line Is a New Mind: New vector, new thought](https://marlonbarrios.github.io/newline_newline00/)
