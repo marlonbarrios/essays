@@ -1,5 +1,7 @@
 # Writings by Marlon Barrios Solano
 
+## Essays
+
 [Manifesto for a Post-Human Psychology of Cognitive Assemblages](https://marlonbarrios.github.io/posthuman_psychology/)
 
 [Vectorial Foldings and the Improvising Mind: Poetics, Large Language Models, Choreographic Thinking, and the Emergence of Form](https://marlonbarrios.github.io/vectorial_foldings_2/)
@@ -29,6 +31,24 @@
 [The Algorithmic State: Cybernetics, Regulation, and Governance](https://marlonbarrios.github.io/algocracy/)
 
 [The Algorithmic State: Cybernetic Governance and the Rise of Technocratic Sovereignty](https://marlonbarrios.github.io/algocracy2/)
+
+## Short Stories
+
+[Cognitive Drift](https://marlonbarrios.github.io/cognitive_drift/)
+
+[Them: Now and Then](https://marlonbarrios.github.io/Them/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
