@@ -2,6 +2,8 @@
 
 ## Essays
 
+[Contemporary Art Making as an Epistemic Practice](https://marlonbarrios.github.io/comtemporary_art_making_as-epistemic_practice/)
+
 [Manifesto for a Post-Human Psychology of Cognitive Assemblages](https://marlonbarrios.github.io/posthuman_psychology/)
 
 [Vectorial Foldings and the Improvising Mind: Poetics, Large Language Models, Choreographic Thinking, and the Emergence of Form](https://marlonbarrios.github.io/vectorial_foldings_2/)
