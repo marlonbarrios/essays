@@ -2,6 +2,8 @@
 
 ## Essays
 
+[Space, Time, and Representation in Large Language Models: An Extended Analysis](https://marlonbarrios.github.io/llls_space_time/)
+
 [Contemporary Art Making as an Epistemic Practice](https://marlonbarrios.github.io/comtemporary_art_making_as-epistemic_practice/)
 
 [Manifesto for a Post-Human Psychology of Cognitive Assemblages](https://marlonbarrios.github.io/posthuman_psychology/)
